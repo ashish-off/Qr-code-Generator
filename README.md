@@ -16,3 +16,7 @@ A simple QR Code Generator built with HTML, CSS, and JavaScript. This tool allow
 - **CSS**: Styling for the user interface.
 - **JavaScript**: Logic for generating QR codes and handling user inputs.
 - **API**: [GoQR API](https://goqr.me/api/) for creating QR codes.
+
+## DEMO
+
+![Screenshot 2024-12-22 021714](https://github.com/user-attachments/assets/ebb61132-c018-4741-b8b4-c30b39915c5e)
